@@ -1,4 +1,4 @@
-package level4.dp1.Q2;
+package level4.dp1.part1.Q2;
 
 import java.io.*;
 import java.util.*;
